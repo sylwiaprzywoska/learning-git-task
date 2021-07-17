@@ -1,5 +1,5 @@
 print("lista zakupów")
-slownik = {"piekarnia": ["chleb", "bułki", "pączek"], "warzywniak": ["marchew", "seler", "rukola", "bakłażan"]}
+slownik = {"piekarnia": ["chleb", "bułki", "pączek", "jagodzianka"], "warzywniak": ["marchew", "seler", "rukola", "bakłażan"]}
 i = 0
 j=0
 for sklep, item in slownik.items():
